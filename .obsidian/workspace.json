@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INTRODUZIONE.md",
+                "file": "1. Attori e accertamenti nella procedura penale.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "INTRODUZIONE"
+              "title": "1. Attori e accertamenti nella procedura penale"
             }
           }
         ]
@@ -185,6 +185,8 @@
   },
   "active": "df99789f1da9d03c",
   "lastOpenFiles": [
-    "INTRODUZIONE.md"
+    "Informatica_Forense_2526.md",
+    "1. Attori e accertamenti nella procedura penale.md",
+    "0.Introduzione.md"
   ]
 }
